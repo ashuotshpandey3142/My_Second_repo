@@ -1,2 +1,4 @@
 # My_Second_repo
-For practising
+This is a README file containing important information about repository.
+
+It have file Ashutosh.txt and python.py.
